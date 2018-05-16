@@ -1,0 +1,12 @@
+JuegoEventbrite.jar --> Es el ejecutable de la aplicación
+
+JuegoEventbrite.java --> Es el código de la aplicación:
+     
+	_Tendremos una clase JuegoEventbrite la cual contiene:
+	 .Método ejecutable (main)
+	 .Función estática adivinaComputadora()
+	 .Función estática adivinoYo()
+	
+	IMPORTANTE: HAY QUE ASEGURARSE DE IMPORTAR LAS SIGUIENTES LIBRERIAS ANTES DE LA CLASE:
+  	 .import javax.swing.JOptionPane; --> Para que funcionen los mensajes al usuario
+	 .import java.util.concurrent.ThreadLocalRandom; --> Nos permite utilizar una función para seleccionar un valor 	                                                                 aleatorio dentro de un rango determinado
